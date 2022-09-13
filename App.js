@@ -8,9 +8,9 @@ function App() {
   return (
     <Grid container>
       <Navbar />
-      <Outlet /> //Outlet - A component that renders the next match in a set of matches.
+      <Outlet /> 
     </Grid>
   );
 }
-
+ 
 export default App;
